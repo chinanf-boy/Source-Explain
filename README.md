@@ -1,7 +1,7 @@
 ![Explain](./explain.jpg)
 
 
-## Explain
+## Explain ![logo](./minilogo.svg)
 
 Code non-code, and the code continued
 

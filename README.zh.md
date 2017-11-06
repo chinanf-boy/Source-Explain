@@ -1,7 +1,7 @@
 ![Explain](./explain.jpg)
 
 
-## 解释
+## 解释 ![logo](./minilogo.svg)
 
 码非码，以及码中续
 

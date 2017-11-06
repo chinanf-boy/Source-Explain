@@ -1,3 +1,6 @@
+![Explain](./explain.jpg)
+
+
 ## 解释
 
 码非码，以及码中续

@@ -1,7 +1,8 @@
 ![Explain](./explain.jpg)
 
+[![explain](./minilogo.svg)](https://github.com/chinanf-boy/Source-Explain)
 
-## 解释 ![logo](./minilogo.svg)
+## 解释 
 
 码非码，以及码中续
 

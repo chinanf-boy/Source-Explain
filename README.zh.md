@@ -18,5 +18,5 @@
 
 ## python
 
-- [ x ] [requests源码解析 (< v0.8.0) ](https://github.com/wangshunping/read_requests)
+- [x] [requests源码解析 {< v0.8.0}](https://github.com/wangshunping/read_requests)
 

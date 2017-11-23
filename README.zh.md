@@ -22,11 +22,21 @@
 
 ## python
 
-- [x] [requests源码解析 {< v0.8.0}](https://github.com/wangshunping/read_requests)
+- [x] [requests 易用的 请求网页信息 源码解析 {{< v0.8.0}}](https://github.com/wangshunping/read_requests)
 
+> [源码链接](https://github.com/requests/requests/)
+
+- [x] [starred github star 项目生成工具](https://github.com/chinanf-boy/explain-starred)
+
+>[源码链接](https://github.com/maguowei/starred)
+
+>
 
 ## javascript
 
-- [x] [vuera v1.0.3](https://github.com/chinanf-boy/explain-vuera)
+- [x] [vuera 在一个项目中使用 React 与 Vue {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
+
+> [源码链接](https://github.com/akxcv/vuera)
+---
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。

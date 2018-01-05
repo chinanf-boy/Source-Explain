@@ -18,6 +18,8 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
 [源码解释列表-中文列表📖📖](./README.zh.md)
 
+---
+
 - ![Low](low.svg) easy to explain and read , link < ` 1000 ` 🐶
 
 - ![Medium](./medium.svg) medium to explain and read , link `1000` < x < ` 10000 ` 💪
@@ -35,11 +37,15 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
 ## python
 
-- [![Low](low.svg)📖] [`starred` creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
+- [![Low](low.svg)📖] 
+
+[`starred` creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
 
 > 🔗[`starred` github source](https://github.com/maguowei/starred)
 
- - [![Low](low.svg)📖] [`background` Runs things in the background. by `kennethreitz` !](https://github.com/chinanf-boy/explain-background)
+ - [![Low](low.svg)📖] 
+ 
+ [`background` Runs things in the background. by `kennethreitz` !](https://github.com/chinanf-boy/explain-background)
 
 > 🔗[`background` github source](https://github.com/kennethreitz/background)
 
@@ -47,7 +53,9 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
 ## javascript
 
-- [![medium](medium.svg)📖] [`vuera` 👀 Vue in React, React in Vue. Seamless integration of the two. 👯 {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
+- [![medium](medium.svg)📖] 
+
+[`vuera` 👀 Vue in React, React in Vue. Seamless integration of the two. 👯 {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
 
 > 🔗[`vuera` github source](https://github.com/akxcv/vuera)
 

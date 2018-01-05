@@ -24,23 +24,32 @@
 
 - [x] [requests 易用的 请求网页信息 源码解析 {{< v0.8.0}}](https://github.com/wangshunping/read_requests)
 
-> [源码链接](https://github.com/requests/requests/)
+> 🔗[源码链接](https://github.com/requests/requests/)
 
 - [x] [starred github star 项目生成工具](https://github.com/chinanf-boy/explain-starred)
 
->[源码链接](https://github.com/maguowei/starred)
+>🔗[源码链接](https://github.com/maguowei/starred)
 
->
+---
 
 ## javascript
 
 - [x] [vuera 在一个项目中使用 React 与 Vue {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
 
-> [源码链接](https://github.com/akxcv/vuera)
+> 🔗[源码链接](https://github.com/akxcv/vuera)
 
 - [x] [translate-mds 用于翻译文件夹下的md文件 {{ v2.5.6 }}](https://github.com/chinanf-boy/explain-translateMds)
 
 > [源码连接](https://github.com/chinanf-boy/translate-js)
+
+- [x] [clipboard 简单的一键复制剪贴板 {{ 1.7.1 }}](https://github.com/chinanf-boy/explain-clipboard)
+
+> 🔗[源码链接](https://github.com/zenorocha/clipboard.js)
+
+- [x] [scrollreveal 简单的网页和移动浏览器的滚动动画 {{ 4.0.0-beta.24 }}](https://github.com/chinanf-boy/explain-scrollreveal)
+
+> 🔗[源码链接](https://github.com/chinanf-boy/explain-scrollreveal)
+
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。

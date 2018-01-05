@@ -16,29 +16,38 @@ here is to collect `` source explanation `` is like `` awesome`` to provide tool
 
 Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
-[源码解释列表-中文列表](./README.zh.md)
+[源码解释列表-中文列表📖📖](./README.zh.md)
 
+- ![Low][low_img]
+
+- ![Medium][medium_img]
+
+- ![High][high_img]
 
 
 # ``explain``
 
-- [python](#python)
+- [📖 python](#python)
 
-- [javascript](#javascript)
+- [📖 javascript](#javascript)
 
 ---
 
 ## python
 
-- [`starred` creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
+- [📖] [`starred` creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
 
 > 🔗[github source](https://github.com/maguowei/starred)
+
+ - [📖] [`background` Runs things in the background. by `kennethreitz` !](https://github.com/chinanf-boy/explain-background)
+
+> 🔗[源码链接](https://github.com/kennethreitz/background)
 
 ---
 
 ## javascript
 
-- [`vuera` 👀 Vue in React, React in Vue. Seamless integration of the two. 👯 {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
+- [📖] [`vuera` 👀 Vue in React, React in Vue. Seamless integration of the two. 👯 {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
 
 > 🔗[github source](https://github.com/akxcv/vuera)
 

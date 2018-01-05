@@ -18,11 +18,11 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
 [源码解释列表-中文列表📖📖](./README.zh.md)
 
-- ![Low][low_img]
+- ![Low](low.svg) easy to explain and read , link < ` 1000 ` 🐶
 
-- ![Medium][medium_img]
+- ![Medium](./medium.svg) medium to explain and read , link `1000` < x < ` 10000 ` 💪
 
-- ![High][high_img]
+- ![High](./high.svg) high to explain and read , It is hugo `10000` < 💀
 
 
 # ``explain``
@@ -35,21 +35,21 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
 ## python
 
-- [📖] [`starred` creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
+- [![Low](low.svg)📖] [`starred` creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
 
-> 🔗[github source](https://github.com/maguowei/starred)
+> 🔗[`starred` github source](https://github.com/maguowei/starred)
 
- - [📖] [`background` Runs things in the background. by `kennethreitz` !](https://github.com/chinanf-boy/explain-background)
+ - [![Low](low.svg)📖] [`background` Runs things in the background. by `kennethreitz` !](https://github.com/chinanf-boy/explain-background)
 
-> 🔗[源码链接](https://github.com/kennethreitz/background)
+> 🔗[`background` github source](https://github.com/kennethreitz/background)
 
 ---
 
 ## javascript
 
-- [📖] [`vuera` 👀 Vue in React, React in Vue. Seamless integration of the two. 👯 {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
+- [![medium](medium.svg)📖] [`vuera` 👀 Vue in React, React in Vue. Seamless integration of the two. 👯 {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
 
-> 🔗[github source](https://github.com/akxcv/vuera)
+> 🔗[`vuera` github source](https://github.com/akxcv/vuera)
 
 ---
 

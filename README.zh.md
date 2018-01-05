@@ -16,54 +16,54 @@
 
 ---
 
-- ![Low][low_img]
+- ![Low](low.svg) 简单的 < ` 1000 ` 🐶
 
-- ![Medium][medium_img]
+- ![Medium](./medium.svg) 中等的 `1000` < x < ` 10000 ` 💪
 
-- ![High][high_img]
+- ![High](./high.svg) 大大大大大 `10000` < 💀
 
 ---
 
 # ``explain``
 
-- [python](#python)
+- [📖 python](#python)
 
-- [javascript](#javascript)
+- [📖 javascript](#javascript)
 
 ---
 
 ## python
 
-- [📖] [`requests` 易用的 请求网页信息 源码解析 {{< v0.8.0}}](https://github.com/wangshunping/read_requests)
+- [![High](./high.svg)📖] [`requests` 易用的 请求网页信息 源码解析 {{< v0.8.0}}](https://github.com/wangshunping/read_requests)
 
-> 🔗[源码链接](https://github.com/requests/requests/)
+> 🔗[`requests`源码链接](https://github.com/requests/requests/)
 
-- [📖] [`starred` github star 项目生成工具](https://github.com/chinanf-boy/explain-starred)
+- [![Low](low.svg)📖] [`starred` github star 项目生成工具](https://github.com/chinanf-boy/explain-starred)
 
-> 🔗[源码链接](https://github.com/maguowei/starred)
+> 🔗[`starred`源码链接](https://github.com/maguowei/starred)
 
-- [📖] [`background` 后台运行噢😯.](https://github.com/chinanf-boy/explain-background)
+- [![Low](low.svg)📖] [`background` 后台运行噢😯.](https://github.com/chinanf-boy/explain-background)
 
-> 🔗[源码链接](https://github.com/kennethreitz/background)
+> 🔗[`background`源码链接](https://github.com/kennethreitz/background)
 ---
 
 ## javascript
 
-- [📖] [vuera 在一个项目中使用 React 与 Vue {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
+- [![Medium](./medium.svg)📖] [`vuera` 在一个项目中使用 React 与 Vue {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
 
-> 🔗[源码链接](https://github.com/akxcv/vuera)
+>> 🔗[`vuera` 源码链接](https://github.com/akxcv/vuera)
 
-- [📖] [translate-mds 用于翻译文件夹下的md文件 {{ v2.5.6 }}](https://github.com/chinanf-boy/explain-translateMds)
+- [![Medium](./medium.svg)📖] [`translate-mds `用于翻译文件夹下的md文件 {{ v2.5.6 }}](https://github.com/chinanf-boy/explain-translateMds)
 
-> [源码连接](https://github.com/chinanf-boy/translate-js)
+> 🔗[`translate-mds `源码连接](https://github.com/chinanf-boy/translate-js)
 
-- [📖] [clipboard 简单的一键复制剪贴板 {{ 1.7.1 }}](https://github.com/chinanf-boy/explain-clipboard)
+- [![Medium](./medium.svg)📖] [`clipboard` 简单的一键复制剪贴板 {{ 1.7.1 }}](https://github.com/chinanf-boy/explain-clipboard)
 
-> 🔗[源码链接](https://github.com/zenorocha/clipboard.js)
+> 🔗[`clipboard`源码链接](https://github.com/zenorocha/clipboard.js)
 
-- [📖] [scrollreveal 简单的网页和移动浏览器的滚动动画 {{ 4.0.0-beta.24 }}](https://github.com/chinanf-boy/explain-scrollreveal)
+- [![High](./high.svg)📖] [`scrollreveal` 简单的网页和移动浏览器的滚动动画 {{ 4.0.0-beta.24 }}](https://github.com/chinanf-boy/explain-scrollreveal)
 
-> 🔗[源码链接](https://github.com/chinanf-boy/explain-scrollreveal)
+> 🔗[`scrollreveal`源码链接](https://github.com/chinanf-boy/explain-scrollreveal)
 
 ---
 

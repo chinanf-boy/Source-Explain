@@ -39,23 +39,27 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
 - [![Low](low.svg)📖] 
 
-[`starred` creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
+### [`starred` creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
 
-> 🔗[`starred` github source](https://github.com/maguowei/starred)
+>  🔗[`starred` github source](https://github.com/maguowei/starred)
 
  - [![Low](low.svg)📖] 
  
- [`background` Runs things in the background. by `kennethreitz` !](https://github.com/chinanf-boy/explain-background)
+ ### [`background` Runs things in the background. by `kennethreitz` !](https://github.com/chinanf-boy/explain-background)
 
 > 🔗[`background` github source](https://github.com/kennethreitz/background)
 
 ---
 
+[foo]: http://example.com/  "sdfsdf Title Here"
+[foo]: http://example.com/  'Optional Title Here'
+[foo]: http://example.com/  (Optional Title Here)
+
 ## javascript
 
 - [![medium](medium.svg)📖] 
 
-[`vuera` 👀 Vue in React, React in Vue. Seamless integration of the two. 👯 {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
+### [`vuera` 👀 Vue in React, React in Vue. Seamless integration of the two. 👯 {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
 
 > 🔗[`vuera` github source](https://github.com/akxcv/vuera)
 

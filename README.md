@@ -19,9 +19,30 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 [源码解释列表-中文列表](./README.zh.md)
 
 
+
 # ``explain``
 
-- [explain-vuera](https://github.com/chinanf-boy/explain-vuera)
+- [python](#python)
+
+- [javascript](#javascript)
+
+---
+
+## python
+
+- [`starred` creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
+
+> 🔗[github source](https://github.com/maguowei/starred)
+
+---
+
+## javascript
+
+- [`vuera` 👀 Vue in React, React in Vue. Seamless integration of the two. 👯 {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
+
+> 🔗[github source](https://github.com/akxcv/vuera)
+
+---
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
 

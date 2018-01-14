@@ -62,7 +62,7 @@
 
 - [![Low](low.svg)-![medium](medium.svg)📖] 
 
-### [`delegator.py` 人类的子进程😯. by kennethreitz](https://github.com/chinanf-boy/explain-background)
+### [`delegator.py` 人类的子进程😯. by kennethreitz](https://github.com/chinanf-boy/explain-delegator-py)
 
 > 🔗[`delegator.py`源码链接](https://github.com/kennethreitz/delegator.py)
 ---

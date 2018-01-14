@@ -37,11 +37,15 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
 ## python
 
+---
+
 - [![Low](low.svg)📖] 
 
 ### [`starred` creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
 
 >  🔗[`starred` github source](https://github.com/maguowei/starred)
+
+---
 
  - [![Low](low.svg)📖] 
  
@@ -51,11 +55,19 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
 ---
 
-[foo]: http://example.com/  "sdfsdf Title Here"
-[foo]: http://example.com/  'Optional Title Here'
-[foo]: http://example.com/  (Optional Title Here)
+ - [![Low](low.svg)-![medium](medium.svg)📖] 
+ 
+ ### [`delegator.py` Subprocesses for Humans 2.0.. by `kennethreitz` !](https://github.com/chinanf-boy/explain-delegator-py)
+
+> 🔗[`delegator.py` github source](https://github.com/kennethreitz/delegator.py)
+
+
+
+---
 
 ## javascript
+
+---
 
 - [![medium](medium.svg)📖] 
 

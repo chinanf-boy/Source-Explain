@@ -34,11 +34,15 @@
 
 ## python
 
+---
+
 - [![High](./high.svg)📖] 
 
-### [`requests` 易用的 请求网页信息 源码解析 {{< v0.8.0}}](https://github.com/wangshunping/read_requests)
+### [`requests` 人类的 请求网页信息 源码解析 {{< v0.8.0}} ](https://github.com/wangshunping/read_requests)
 
 > 🔗[`requests`源码链接](https://github.com/requests/requests/)
+
+---
 
 - [![Low](low.svg)📖] 
 
@@ -46,20 +50,34 @@
 
 > 🔗[`starred`源码链接](https://github.com/maguowei/starred)
 
+---
+
 - [![Low](low.svg)📖] 
 
-### [`background` 后台运行噢😯.](https://github.com/chinanf-boy/explain-background)
+### [`background` 后台运行噢😯. by kennethreitz](https://github.com/chinanf-boy/explain-background)
 
 > 🔗[`background`源码链接](https://github.com/kennethreitz/background)
+
+---
+
+- [![Low](low.svg)-![medium](medium.svg)📖] 
+
+### [`delegator.py` 人类的子进程😯. by kennethreitz](https://github.com/chinanf-boy/explain-background)
+
+> 🔗[`delegator.py`源码链接](https://github.com/kennethreitz/delegator.py)
 ---
 
 ## javascript
+
+---
 
 - [![Medium](./medium.svg)📖] 
 
 ### [`vuera` 在一个项目中使用 React 与 Vue {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
 
->> 🔗[`vuera` 源码链接](https://github.com/akxcv/vuera)
+> 🔗[`vuera` 源码链接](https://github.com/akxcv/vuera)
+
+---
 
 - [![Medium](./medium.svg)📖] 
 
@@ -67,11 +85,15 @@
 
 > 🔗[`translate-mds `源码连接](https://github.com/chinanf-boy/translate-js)
 
+---
+
 - [![Medium](./medium.svg)📖] 
 
 ### [`clipboard` 简单的一键复制剪贴板 {{ 1.7.1 }}](https://github.com/chinanf-boy/explain-clipboard)
 
 > 🔗[`clipboard`源码链接](https://github.com/zenorocha/clipboard.js)
+
+---
 
 - [![High](./high.svg)📖]
 

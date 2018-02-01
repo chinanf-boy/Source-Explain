@@ -39,6 +39,16 @@
 
 ---
 
+1. `requests`
+
+2. `starred`
+
+3. `background`
+
+4. `delegator.py`
+
+---
+
 - [![High](./high.svg)📖] 
 
 ### [`requests` 人类的 请求网页信息 源码解析-前几个版本 by `kennethreitz` {{< v0.8.0}} ](https://github.com/wangshunping/read_requests)
@@ -71,6 +81,29 @@
 ---
 
 ## javascript
+
+---
+
+1. `vuera`
+
+2. `translate-mds`
+
+3. `clipboard`
+
+4. `scrollreveal`
+
+5. `workerize`
+
+6. `unfetch`
+
+7. `mitt`
+
+8. `greenlet`
+
+9. `pseudo-worker`
+
+10. `shadowsocks-over-websocket`
+
 
 ---
 
@@ -122,7 +155,45 @@
 
 ---
 
+- [![low](./low.svg)📖]
+
+### [`mitt`  Tiny 200b emitter/on 订阅/触发 模式 by `Preact作者developit`](https://github.com/chinanf-boy/explain-mitt)
+
+> 🔗[`mitt`源码链接](https://github.com/developit/mitt)
+
+---
+
+- [![low](./low.svg)📖]
+
+### [`greenlet`  把异步函数移到worker by `Preact作者developit`](https://github.com/chinanf-boy/greenlet-explain)
+
+> 🔗[`greenlet`源码链接](https://github.com/developit/greenlet)
+
+---
+
+- [![medium](./medium.svg)📖]
+
+### [`pseudo-worker` Web worker polyfill ](https://github.com/chinanf-boy/pseudo-worker-explain)
+
+> 🔗[`pseudo-worker`源码链接](https://github.com/nolanlawson/pseudo-worker)
+
+---
+
+- [![medium](./medium.svg)📖]
+
+### [`shadowsocks-over-websocket` 免费使用 Heroku 部署 shadowsocks ](https://github.com/chinanf-boy/shadowsocks-over-websocket-explain)
+
+> 🔗[`shadowsocks-over-websocket`源码链接](https://github.com/VincentChanX/shadowsocks-over-websocket)
+
+---
+
 ## go
+
+---
+
+1. `node-prune`
+
+---
 
 - [![medium](./medium.svg)📖]
 

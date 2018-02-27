@@ -208,7 +208,7 @@
 
 ---
 
-- [![low](./low.svg)📖]
+- [![low](./low.svg)📖![medium](./medium.svg)]
 
 ### [`modern-normalize.css` 规范化浏览器的默认样式 只为最新浏览器服务😊 ](https://github.com/chinanf-boy/modern-normalize-css-explain)
 

@@ -187,6 +187,14 @@
 
 ---
 
+- [![low](./low.svg)📖]
+
+### [`deepset` 一个小巧的（150B）工具，用于安全地写入深度对象值 ](https://github.com/chinanf-boy/deepset-explain)
+
+> 🔗[`deepset`源码链接](https://github.com/lukeed/deepset)
+
+---
+
 ## go
 
 ---

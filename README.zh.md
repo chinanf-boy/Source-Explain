@@ -110,6 +110,8 @@
 
 13. `modern-normalize.css`
 
+14. `react-worker-image`
+
 ---
 
 - [![Medium](./medium.svg)📖] 
@@ -213,6 +215,14 @@
 ### [`modern-normalize.css` 规范化浏览器的默认样式 只为最新浏览器服务😊 ](https://github.com/chinanf-boy/modern-normalize-css-explain)
 
 > 🔗[`modern-normalize-css`源码链接](https://github.com/sindresorhus/modern-normalize)
+
+---
+
+- [![low](./low.svg)📖![medium](./medium.svg)]
+
+### [`react-worker-image` React组件通过web worker获取图像资源😊 ](https://github.com/chinanf-boy/react-worker-image-explain)
+
+> 🔗[`react-worker-image`源码链接](https://github.com/nitish24p/react-worker-image)
 
 ---
 

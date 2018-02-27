@@ -104,6 +104,11 @@
 
 10. `shadowsocks-over-websocket`
 
+11. `deepset`
+
+12. `nanoid`
+
+13. `modern-normalize.css`
 
 ---
 
@@ -197,7 +202,15 @@
 
 - [![low](./low.svg)📖]
 
-### [`modern-normalize-css` 规范化浏览器的默认样式 只为最新浏览器服务😊 ](https://github.com/chinanf-boy/modern-normalize-css-explain)
+### [`nanoid` 用于JavaScript的小型（176字节），安全的，URL友好的，唯一的字符串ID生成器 ](https://github.com/chinanf-boy/nanoid-explain)
+
+> 🔗[`nanoid`源码链接](https://github.com/ai/nanoid)
+
+---
+
+- [![low](./low.svg)📖]
+
+### [`modern-normalize.css` 规范化浏览器的默认样式 只为最新浏览器服务😊 ](https://github.com/chinanf-boy/modern-normalize-css-explain)
 
 > 🔗[`modern-normalize-css`源码链接](https://github.com/sindresorhus/modern-normalize)
 

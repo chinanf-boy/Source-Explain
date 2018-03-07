@@ -39,6 +39,14 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
 ---
 
+1. `starred`
+
+2. `background`
+
+3. `delegator.py`
+
+---
+
 - [![Low](low.svg)📖] 
 
 ### [`starred` creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
@@ -69,6 +77,13 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
 ---
 
+1. `vuera`
+
+2. `deepset`
+
+3. `didact`
+
+---
 - [![medium](medium.svg)📖] 
 
 ### [`vuera` 👀 Vue in React, React in Vue. Seamless integration of the two. 👯 {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
@@ -82,6 +97,14 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 ### [`deepset` "A compact (150b) tool for safely writing depth object values ​​~!"](https://github.com/chinanf-boy/deepset-explain/blob/master/readme.en.md)
 
 > 🔗[`deepset` github source](https://github.com/lukeed/deepset)
+
+---
+
+- [![low](low.svg)]-[![medium](medium.svg)📖]  
+
+### [`Didact` "A DIY guide to build your own React ​​~!"](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
+
+> 🔗[`Didact` github source](https://github.com/hexacta/didact)
 
 ---
 

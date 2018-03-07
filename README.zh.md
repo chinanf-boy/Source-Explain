@@ -113,6 +113,8 @@
 
 14. `react-worker-image`
 
+15. `didact`
+
 ---
 
 - [![Medium](./medium.svg)📖] 
@@ -224,6 +226,14 @@
 ### [`react-worker-image` React组件通过web worker获取图像资源😊 ](https://github.com/chinanf-boy/react-worker-image-explain)
 
 > 🔗[`react-worker-image`源码链接](https://github.com/nitish24p/react-worker-image)
+
+---
+
+- [![low](low.svg)]-[![medium](medium.svg)📖]  
+
+### [`Didact` "手动教你-做React 贼厉害吧 ​​「 翻译 」~!"](https://github.com/chinanf-boy/didact-explain)
+
+> 🔗[`Didact` github source](https://github.com/hexacta/didact)
 
 ---
 

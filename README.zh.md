@@ -115,6 +115,8 @@
 
 15. `didact`
 
+16. `learn-Vue`
+
 ---
 
 - [![Medium](./medium.svg)📖] 
@@ -234,6 +236,14 @@
 ### [`Didact` "手动教你-做React 贼厉害吧 ​​「 翻译 」~!"](https://github.com/chinanf-boy/didact-explain)
 
 > 🔗[`Didact` github source](https://github.com/hexacta/didact)
+
+---
+
+- [![medium](./medium.svg)]-[![high](./high.svg)]]📖
+
+### [`learnVue` Vue.js 源码解析😊 by `answershuto`](https://github.com/answershuto/learnVue)
+
+> 🔗[`vue`-链接](https://github.com/vuejs/vue)
 
 ---
 

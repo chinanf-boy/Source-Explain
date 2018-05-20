@@ -143,6 +143,8 @@
 
 23. `ReLaXed`
 
+24. `vue-cli`
+
 </details>
 
 ---
@@ -331,6 +333,13 @@
 
 ---
 
+- [![high](./high.svg)]]📖
+
+### [`vue-cli` vue 官方的工具即将迎来 3.0 正式版 「"3.0.0-beta.9"」](https://github.com/chinanf-boy/vue-cli-explain)
+
+> 🔗[`vue-cli`-链接](https://github.com/vuejs/vue-cli)
+
+---
 
 
 ## go

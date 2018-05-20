@@ -131,6 +131,8 @@
 
 17. `path-run`
 
+18. `vue-resource`
+
 </details>
 
 ---
@@ -268,6 +270,14 @@
 ### [`path-run` 更改项目文件-被其他文件导入的所在位置 ](https://github.com/chinanf-boy/path-run-explain)
 
 > 🔗[`path-run`源码链接](https://github.com/chinanf-boy/Path-run)
+
+---
+
+- [![medium](./medium.svg)]-[![high](./high.svg)]]📖
+
+### [`vue-resource` vue http请求插件 作者已不再更新,让我们来敬重一下](https://github.com/chinanf-boy/vue-resource-explain)
+
+> 🔗[`vue-resource`-链接](https://github.com/pagekit/vue-resource)
 
 ---
 

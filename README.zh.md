@@ -139,6 +139,8 @@
 
 21. `vue-with-go-example`
 
+22. `vuegg`
+
 </details>
 
 ---
@@ -308,6 +310,14 @@
 ### [`vue-with-go-example` 这本身不属于哪个库, 但我想说说 vue与go的结合 ](https://github.com/chinanf-boy/vue-with-go-example)
 
 > 🔗[`vue-with-go-example`源码链接](https://github.com/chinanf-boy/vue-with-go-example)
+
+---
+
+- [![medium](./medium.svg)]-[![high](./high.svg)]]📖
+
+### [`vuegg` 可视化 vue工程真的厉害, 继续挖坑, 自己看的快, 打得就没那么快了,因为量多](https://github.com/chinanf-boy/vuegg-explain)
+
+> 🔗[`vuegg`-链接](https://github.com/vuegg/vuegg)
 
 ---
 

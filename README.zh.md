@@ -281,6 +281,7 @@
 
 1. `node-prune`
 
+2. `annie`
 
 </details>
 
@@ -291,6 +292,14 @@
 ### [`node-prune` 清除不必要文件在node_modules「你知道的无尽深渊」 像 `.md` <-> by `tj`{{ 1.0.1 }}](https://github.com/chinanf-boy/explain-node-prune)
 
 > 🔗[`node-prune`源码链接](https://github.com/tj/node-prune)
+
+---
+
+- [![medium](./medium.svg)📖]
+
+### [`annie` 小而简单的视频下载器 2/*](https://github.com/chinanf-boy/annie-explain)
+
+> 🔗[`annie`源码链接](https://github.com/iawia002/annie)
 
 ---
 

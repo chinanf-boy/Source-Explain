@@ -303,7 +303,7 @@
 
 ### Didact 
 
-- [![low](low.svg)]-[![medium](medium.svg)📖]  
+- [![medium](medium.svg)📖]  
 
 ["手动教你-做React 贼厉害吧 ​​「 翻译 」~!"](https://github.com/chinanf-boy/didact-explain)
 

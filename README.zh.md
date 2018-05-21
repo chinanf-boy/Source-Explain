@@ -153,6 +153,9 @@
 
 24. [vue-cli](#vue-cli)
 
+25. [aos](#aos)
+
+
 </details>
 
 ---
@@ -397,6 +400,16 @@
 [vue 官方的工具即将迎来 3.0 正式版 「"3.0.0-beta.9"」](https://github.com/chinanf-boy/vue-cli-explain)
 
 > 🔗[`vue-cli`-链接](https://github.com/vuejs/vue-cli)
+
+---
+
+### aos 
+
+- [![low](low.svg)]-[![medium](medium.svg)📖]  
+
+[aos 滚动 动画库 「简单高效, 才是时代标杆」](https://github.com/chinanf-boy/aos-explain)
+
+> 🔗[`aos`-链接](https://github.com/michalsnik/aos)
 
 ---
 

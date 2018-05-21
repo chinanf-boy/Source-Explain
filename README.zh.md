@@ -307,9 +307,7 @@
 
 ["手动教你-做React 贼厉害吧 ​​「 翻译 」~!"](https://github.com/chinanf-boy/didact-explain)
 
-> 🔗[`Didact 
-
-[github source](https://github.com/hexacta/didact)
+> 🔗[`Didact 源码 链接](https://github.com/hexacta/didact)
 
 ---
 
@@ -319,7 +317,7 @@
 
 [Vue.js 源码解析😊 by `answershuto`](https://github.com/answershuto/learnVue)
 
-> 🔗[`vue`-链接](https://github.com/vuejs/vue)
+> 🔗[`vue` 源码链接](https://github.com/vuejs/vue)
 
 ---
 
@@ -339,7 +337,7 @@
 
 [vue http请求插件 「作者已不再更新,让我们来敬重一下」](https://github.com/chinanf-boy/vue-resource-explain)
 
-> 🔗[`vue-resource`-链接](https://github.com/pagekit/vue-resource)
+> 🔗[`vue-resource` 源码链接](https://github.com/pagekit/vue-resource)
 
 ---
 
@@ -349,7 +347,7 @@
 
 [你试过在 命令行中使用 JSX 吗, ink 就可以告诉你](https://github.com/chinanf-boy/ink-explain)
 
-> 🔗[`ink`-链接](https://github.com/vadimdemedes/ink)
+> 🔗[`ink` 源码链接](https://github.com/vadimdemedes/ink)
 
 ---
 
@@ -359,7 +357,7 @@
 
 [未来的JavaScript测试运行器, 「这是一次对我而言刚及格的explain 可略」](https://github.com/chinanf-boy/ava-explain)
 
-> 🔗[`ava`-链接](https://github.com/avajs/ava)
+> 🔗[`ava` 源码链接](https://github.com/avajs/ava)
 
 ---
 
@@ -379,7 +377,7 @@
 
 [可视化 vue工程真的厉害, 「继续挖坑, 自己看的快, 打得就没那么快了,因为量多」](https://github.com/chinanf-boy/vuegg-explain)
 
-> 🔗[`vuegg`-链接](https://github.com/vuegg/vuegg)
+> 🔗[`vuegg` 源码链接](https://github.com/vuegg/vuegg)
 
 ---
 

@@ -2,6 +2,9 @@
 
 [![explain](./minilogo.svg)](https://github.com/chinanf-boy/Source-Explain)
 
+[源码解释列表-中文列表📖📖](./README.zh.md)
+
+
 ## Explain 
 
 Code non-code, and the code continued
@@ -15,8 +18,6 @@ Of course, no matter how powerful a person, or a piece of fine.
 here is to collect `` source explanation `` is like `` awesome`` to provide tools and projects
 
 Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
-
-[源码解释列表-中文列表📖📖](./README.zh.md)
 
 ---
 
@@ -70,7 +71,6 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 > 🔗[`delegator.py` github source](https://github.com/kennethreitz/delegator.py)
 
 
-
 ---
 
 ## javascript
@@ -82,6 +82,8 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 2. `deepset`
 
 3. `didact`
+
+4. `minipack`
 
 ---
 - [![medium](medium.svg)📖] 
@@ -105,6 +107,16 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 ### [`Didact` "A DIY guide to build your own React ​​~!"](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 
 > 🔗[`Didact` github source](https://github.com/hexacta/didact)
+
+---
+
+ - [![Low](low.svg)-![medium](medium.svg)📖] 
+ 
+ ### [`minipack` A simplified example of a modern module bundler written in JavaScript](https://github.com/ronami/minipack)
+
+> 🔗[`minipack` github source](https://github.com/ronami/minipack)
+
+
 
 ---
 

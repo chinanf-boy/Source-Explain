@@ -155,6 +155,9 @@
 
 25. [aos](#aos)
 
+25. [minipack](#minipack)
+
+
 
 </details>
 
@@ -410,6 +413,17 @@
 > 🔗[`aos`-链接](https://github.com/michalsnik/aos)
 
 ---
+
+### minipack 
+
+- [![low](low.svg)]-[![medium](medium.svg)📖]  
+
+[minipack 简单的 捆绑器 示例 「 翻译 」](https://github.com/chinanf-boy/minipack-explain)
+
+> 🔗[`minipack`-链接](https://github.com/ronami/minipack)
+
+---
+
 
 
 ## go

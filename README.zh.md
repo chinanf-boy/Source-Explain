@@ -14,6 +14,10 @@
 
 这里说不定，能提供 ``思想与深度`` 哦 😊✅ 
 
+<a href="https://patreon.com/yobrave">
+<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50">
+</a>
+
 ---
 
 - ![Low](low.svg) 简单的 < ` 1000 ` 🐶

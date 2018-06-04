@@ -19,6 +19,10 @@ here is to collect `` source explanation `` is like `` awesome`` to provide tool
 
 Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
+<a href="https://patreon.com/yobrave">
+<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50">
+</a>
+
 ---
 
 - ![Low](low.svg) easy to explain and read , link < ` 1000 ` 🐶

@@ -14,9 +14,10 @@
 
 这里说不定，能提供 ``思想与深度`` 哦 😊✅ 
 
-<a href="https://patreon.com/yobrave">
-<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50">
-</a>
+## 生活
+
+[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+
 
 ---
 
@@ -36,7 +37,10 @@
 
 - [📖 go](#go)
 
+- [📖 bitcoin-比特币](#bitcoin)
+
 - [📖 codepen](#codepen)
+
 
 ---
 
@@ -490,6 +494,15 @@
 
 ---
 
+## BitCoin
+
+### 比特币的原理 
+
+- [![medium](./medium.svg)]📖
+
+[本链接的 关于 比特币原理-讲解的视频 收藏夹 「真的简单,明了❤️」](https://github.com/chinanf-boy/what-is-bitcoin)
+
+---
 
 ## codepen
 

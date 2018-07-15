@@ -44,33 +44,39 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
 ---
 
-1. `starred`
+1. [starred](#stared)
 
-2. `background`
+2. [background](#backgrond)
 
-3. `delegator.py`
+3. [delegator.py](#delegator.py)
 
 ---
 
-- [![Low](low.svg)📖] 
+### starred
 
-### [`starred` creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
+- [![Low](low.svg)📖] - ![medium](medium.svg)📖] 
+
+[creating your own Awesome List used GitHub stars! ](https://github.com/chinanf-boy/explain-starred)
 
 >  🔗[`starred` github source](https://github.com/maguowei/starred)
 
 ---
 
+### background
+
  - [![Low](low.svg)📖] 
  
- ### [`background` Runs things in the background. by `kennethreitz` !](https://github.com/chinanf-boy/explain-background)
+ [Runs things in the background. by `kennethreitz` !](https://github.com/chinanf-boy/explain-background)
 
 > 🔗[`background` github source](https://github.com/kennethreitz/background)
 
 ---
 
+### delegator.py
+
  - [![Low](low.svg)-![medium](medium.svg)📖] 
  
- ### [`delegator.py` Subprocesses for Humans 2.0.. by `kennethreitz` !](https://github.com/chinanf-boy/explain-delegator-py)
+ [Subprocesses for Humans 2.0.. by `kennethreitz` !](https://github.com/chinanf-boy/explain-delegator-py)
 
 > 🔗[`delegator.py` github source](https://github.com/kennethreitz/delegator.py)
 
@@ -81,44 +87,69 @@ Here maybe, can provide `` thinking and depth `` Oh 😊 ✅ </s>
 
 ---
 
-1. `vuera`
+<!-- <details>
 
-2. `deepset`
+<summary> Menu </summary> -->
 
-3. `didact`
+1. [vuera](#vuera)
 
-4. `minipack`
+2. [deepset](#deepset)
+
+3. [didact](#didact)
+
+4. [minipack](#minipack)
+
+5. [react-from-zero](#react-from-zero)
+
+<!-- </details> -->
 
 ---
+
+### vuera
+
 - [![medium](medium.svg)📖] 
 
-### [`vuera` 👀 Vue in React, React in Vue. Seamless integration of the two. 👯 {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
+[👀 Vue in React, React in Vue. Seamless integration of the two. 👯 {{ v1.0.3 }}](https://github.com/chinanf-boy/explain-vuera)
 
 > 🔗[`vuera` github source](https://github.com/akxcv/vuera)
 
 ---
 
+### deepset
+
 - [![low](low.svg)📖] 
 
-### [`deepset` "A compact (150b) tool for safely writing depth object values ​​~!"](https://github.com/chinanf-boy/deepset-explain/blob/master/readme.en.md)
+[ "A compact (150b) tool for safely writing depth object values ​​~!"](https://github.com/chinanf-boy/deepset-explain/blob/master/readme.en.md)
 
 > 🔗[`deepset` github source](https://github.com/lukeed/deepset)
 
 ---
 
-- [![low](low.svg)]-[![medium](medium.svg)📖]  
+### Didact
 
-### [`Didact` "A DIY guide to build your own React ​​~!"](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
+- [![medium](medium.svg)📖]  
+
+["A DIY guide to build your own React ​​~!"](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 
 > 🔗[`Didact` github source](https://github.com/hexacta/didact)
 
 ---
 
+### minipack
+
  - [![Low](low.svg)-![medium](medium.svg)📖] 
  
- ### [`minipack` A simplified example of a modern module bundler written in JavaScript](https://github.com/ronami/minipack)
+ [ A simplified example of a modern module bundler written in JavaScript](https://github.com/ronami/minipack)
 
 > 🔗[`minipack` github source](https://github.com/ronami/minipack)
+
+### react-from-zero
+
+ - [![Low](low.svg)-![medium](medium.svg)📖] 
+ 
+ [A simple (99% ES2015 less) tutorial for React](https://github.com/kay-is/react-from-zero)
+
+> 🔗[`react-from-zero` github source](https://github.com/kay-is/react-from-zero)
 
 
 

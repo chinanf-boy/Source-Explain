@@ -165,9 +165,15 @@
 
 25. [aos](#aos)
 
-25. [minipack](#minipack)
+26. [minipack](#minipack)
 
-25. [react-from-zero](#react-from-zero)
+27. [react-from-zero](#react-from-zero)
+
+28. [ky](#ky)
+
+29. [doc-templite](#doc-templite)
+
+30. [clean-set](#clean-set)
 
 
 </details>
@@ -440,6 +446,33 @@
 [react-from-zero 简单 (至少99% ES2015 ) 例子「翻译」](https://github.com/chinanf-boy/react-from-zero)
 
 > 🔗[`react-from-zero`-链接](https://github.com/kay-is/react-from-zero)
+
+### ky 
+
+- [![low](low.svg)]-[![medium](medium.svg)📖]  
+
+[小巧典雅的基于 Fetch API 浏览器的 HTTP 客户端](https://github.com/chinanf-boy/ky-explain)
+
+> 🔗[`ky`-链接](https://github.com/sindresorhus/ky)
+
+
+### doc-templite 
+
+- [![medium](medium.svg)📖]  
+
+[为多个md文件准备的模版工具](https://github.com/chinanf-boy/doc-templite-explain)
+
+> 🔗[`doc-templite`-链接](https://github.com/chinanf-boy/doc-templite)
+
+### clean-set 
+
+- [![low](low.svg)📖]  
+
+[Object 扩展运算符和Object.assign的深度赋值替代方法 ](https://github.com/chinanf-boy/clean-set-explain)
+
+> 🔗[`clean-set`-链接](https://github.com/fwilkerson/clean-set)
+
+
 
 ---
 

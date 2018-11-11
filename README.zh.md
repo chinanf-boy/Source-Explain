@@ -16,10 +16,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
-
-
----
+[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)v
 
 - ![Low](low.svg) 简单的 < ` 1000 ` 🐶
 
@@ -27,45 +24,74 @@
 
 - ![High](./high.svg) 大大大大大 `10000` < 💀
 
----
 
-# ``explain``
-
-- [📖 python](#python)
-
-- [📖 javascript](#javascript)
-
-- [📖 go](#go)
-
-- [📖 bitcoin-比特币](#bitcoin)
-
-- [📖 ipfs-星际文件系统](#ipfs)
-
-- [📖 codepen](#codepen)
-
-
----
-
-## python
-
----
+# `explain`目录
 
 <details>
 
-<summary>目录</summary>
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-1. [requests](#requests)
+- [python](#python)
+  - [requests](#requests)
+  - [starred](#starred)
+  - [background](#background)
+  - [delegator.py](#delegatorpy)
+  - [howdoi](#howdoi)
+- [javascript](#javascript)
+  - [vuera](#vuera)
+  - [translate-mds](#translate-mds)
+  - [clipboard](#clipboard)
+  - [scrollreveal](#scrollreveal)
+  - [workerize](#workerize)
+  - [unfetch](#unfetch)
+  - [mitt](#mitt)
+  - [greenlet](#greenlet)
+  - [pseudo-worker](#pseudo-worker)
+  - [shadowsocks-over-websocket](#shadowsocks-over-websocket)
+  - [deepset](#deepset)
+  - [nanoid](#nanoid)
+  - [modern-normalize.css](#modern-normalizecss)
+  - [react-worker-image](#react-worker-image)
+  - [Didact](#didact)
+  - [learnVue](#learnvue)
+  - [path-run](#path-run)
+  - [vue-resource](#vue-resource)
+  - [ink](#ink)
+  - [ava](#ava)
+  - [vue-with-go-example](#vue-with-go-example)
+  - [vuegg](#vuegg)
+  - [ReLaXed](#relaxed)
+  - [vue-cli](#vue-cli)
+  - [aos](#aos)
+  - [minipack](#minipack)
+  - [react-from-zero](#react-from-zero)
+  - [ky](#ky)
+  - [doc-templite](#doc-templite)
+  - [clean-set](#clean-set)
+  - [ekill](#ekill)
+  - [dvm](#dvm)
+- [go](#go)
+  - [node-prune](#node-prune)
+  - [annie](#annie)
+  - [vue-with-go-example](#vue-with-go-example-1)
+  - [v2ray](#v2ray)
+  - [sshw](#sshw)
+  - [go-csv-tag](#go-csv-tag)
+- [rust](#rust)
+  - [add-one](#add-one)
+- [BitCoin](#bitcoin)
+  - [比特币的原理](#%E6%AF%94%E7%89%B9%E5%B8%81%E7%9A%84%E5%8E%9F%E7%90%86)
+- [ipfs](#ipfs)
+  - [ipfs-tour](#ipfs-tour)
+- [codepen](#codepen)
 
-2. [starred](#starred)
-
-3. [background](#background)
-
-4. [delegator.py](#delegatorpy)
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 </details>
 
----
+## python
 
 ### requests 
 
@@ -75,7 +101,6 @@
 
 > 🔗[`requests`源码链接](https://github.com/requests/requests/)
 
----
 
 ### starred 
 
@@ -85,7 +110,6 @@
 
 > 🔗[`starred`源码链接](https://github.com/maguowei/starred)
 
----
 
 ### background
 
@@ -95,7 +119,6 @@
 
 > 🔗[`background`源码链接](https://github.com/kennethreitz/background)
 
----
 
 ### delegator.py
 
@@ -104,82 +127,18 @@
 [人类的子进程😯. by `kennethreitz`](https://github.com/chinanf-boy/explain-delegator-py)
 
 > 🔗[`delegator.py`源码链接](https://github.com/kennethreitz/delegator.py)
----
+
+
+### howdoi
+
+- [![medium](medium.svg)📖] 
+
+[即时编码, 通过命令行回答.](https://github.com/chinanf-boy/howdoi-explain)
+
+> 🔗[`howdoi`源码链接](https://github.com/gleitz/howdoi)
+
 
 ## javascript
-
----
-
-<details>
-
-<summary>目录</summary>
-
-
-1. [vuera](#vuera)
-
-2. [translate-mds](#translate-mds)
-
-3. [clipboard](#clipboard)
-
-4. [scrollreveal](#scrollreveal)
-
-5. [workerize](#workerize)
-
-6. [unfetch](#unfetch)
-
-7. [mitt](#mitt)
-
-8. [greenlet](#greenlet)
-
-9. [pseudo-worker](#pseudo-worker)
-
-10. [shadowsocks-over-websocket](#shadowsocks-over-websocket)
-
-11. [deepset](#deepset)
-
-12. [nanoid](#nanoid)
-
-13. [modern-normalize.css](#modern-normalizecss)
-
-14. [react-worker-image](#react-worker-image)
-
-15. [didact](#didact)
-
-16. [learn-Vue](#learn-vue)
-
-17. [path-run](#path-run)
-
-18. [vue-resource](#vue-resource)
-
-19. [ink](#ink)
-
-20. [ava](#ava)
-
-21. [vue-with-go-example](#vue-with-go-example)
-
-22. [vuegg](#vuegg)
-
-23. [ReLaXed](#relaxed)
-
-24. [vue-cli](#vue-cli)
-
-25. [aos](#aos)
-
-26. [minipack](#minipack)
-
-27. [react-from-zero](#react-from-zero)
-
-28. [ky](#ky)
-
-29. [doc-templite](#doc-templite)
-
-30. [clean-set](#clean-set)
-
-
-</details>
-
----
-
 
 ### vuera 
 
@@ -189,7 +148,6 @@
 
 > 🔗[`vuera`源码链接](https://github.com/akxcv/vuera)
 
----
 
 ### translate-mds 
 
@@ -199,7 +157,6 @@
 
 > 🔗[`translate-mds `源码连接](https://github.com/chinanf-boy/translate-mds)
 
----
 
 ### clipboard 
 
@@ -209,7 +166,6 @@
 
 > 🔗[`clipboard`源码链接](https://github.com/zenorocha/clipboard.js)
 
----
 
 ### scrollreveal 
 
@@ -219,7 +175,6 @@
 
 > 🔗[`scrollreveal`源码链接](https://github.com/jlmakes/scrollreveal)
 
----
 
 ### workerize 
 
@@ -229,7 +184,6 @@
 
 > 🔗[`workerize`源码链接](https://github.com/developit/workerize)
 
----
 
 ### unfetch 
 
@@ -239,7 +193,6 @@
 
 > 🔗[`unfetch`源码链接](https://github.com/developit/unfetch)
 
----
 
 ### mitt 
 
@@ -249,7 +202,6 @@
 
 > 🔗[`mitt`源码链接](https://github.com/developit/mitt)
 
----
 
 ### greenlet 
 
@@ -259,7 +211,6 @@
 
 > 🔗[`greenlet`源码链接](https://github.com/developit/greenlet)
 
----
 
 ### pseudo-worker 
 
@@ -269,7 +220,6 @@
 
 > 🔗[`pseudo-worker`源码链接](https://github.com/nolanlawson/pseudo-worker)
 
----
 
 ### shadowsocks-over-websocket 
 
@@ -279,7 +229,6 @@
 
 > 🔗[`shadowsocks-over-websocket`源码链接](https://github.com/VincentChanX/shadowsocks-over-websocket)
 
----
 
 ### deepset 
 
@@ -289,7 +238,6 @@
 
 > 🔗[`deepset`源码链接](https://github.com/lukeed/deepset)
 
----
 
 ### nanoid 
 
@@ -299,7 +247,6 @@
 
 > 🔗[`nanoid`源码链接](https://github.com/ai/nanoid)
 
----
 
 ### modern-normalize.css 
 
@@ -309,7 +256,6 @@
 
 > 🔗[`modern-normalize-css`源码链接](https://github.com/sindresorhus/modern-normalize)
 
----
 
 ### react-worker-image 
 
@@ -319,7 +265,6 @@
 
 > 🔗[`react-worker-image`源码链接](https://github.com/nitish24p/react-worker-image)
 
----
 
 ### Didact 
 
@@ -329,7 +274,6 @@
 
 > 🔗[`Didact 源码 链接](https://github.com/hexacta/didact)
 
----
 
 ### learnVue 
 
@@ -339,7 +283,6 @@
 
 > 🔗[`vue` 源码链接](https://github.com/vuejs/vue)
 
----
 
 ### path-run 
 
@@ -349,7 +292,6 @@
 
 > 🔗[`path-run`源码链接](https://github.com/chinanf-boy/Path-run)
 
----
 
 ### vue-resource 
 
@@ -359,7 +301,6 @@
 
 > 🔗[`vue-resource` 源码链接](https://github.com/pagekit/vue-resource)
 
----
 
 ### ink 
 
@@ -369,7 +310,6 @@
 
 > 🔗[`ink` 源码链接](https://github.com/vadimdemedes/ink)
 
----
 
 ### ava 
 
@@ -379,7 +319,6 @@
 
 > 🔗[`ava` 源码链接](https://github.com/avajs/ava)
 
----
 
 ### vue-with-go-example 
 
@@ -389,7 +328,6 @@
 
 > 🔗[`vue-with-go-example`源码链接](https://github.com/chinanf-boy/vue-with-go-example)
 
----
 
 ### vuegg 
 
@@ -399,7 +337,6 @@
 
 > 🔗[`vuegg` 源码链接](https://github.com/vuegg/vuegg)
 
----
 
 ### ReLaXed 
 
@@ -409,7 +346,6 @@
 
 > 🔗[`ReLaXed`源码链接](https://github.com/RelaxedJS/ReLaXed)
 
----
 
 ### vue-cli 
 
@@ -419,7 +355,6 @@
 
 > 🔗[`vue-cli`-链接](https://github.com/vuejs/vue-cli)
 
----
 
 ### aos 
 
@@ -429,7 +364,6 @@
 
 > 🔗[`aos`-链接](https://github.com/michalsnik/aos)
 
----
 
 ### minipack 
 
@@ -472,31 +406,27 @@
 
 > 🔗[`clean-set`-链接](https://github.com/fwilkerson/clean-set)
 
+### ekill 
+
+- [![low](low.svg)📖]  
+
+[Chrome 和 Firefox 插件可快速删除网页上的元素 ](https://github.com/chinanf-boy/ekill-explain)
+
+> 🔗[`ekill`-链接](https://github.com/rhardih/ekill)
+
+### dvm 
+
+- [![low](low.svg)📖]  
+
+[Deno版本管理器 ](https://github.com/chinanf-boy/dvm-explain)
+
+> 🔗[`dvm`-链接](https://github.com/justjavac/dvm)
 
 
----
 
 
 
 ## go
-
----
-
-<details>
-
-<summary>目录</summary>
-
-1. [node-prune](#node-prune)
-
-2. [annie](#annie)
-
-3. [vue-with-go-example](#vue-with-go-example)
-
-4. [v2ray](#v2ray)
-
-</details>
-
----
 
 ### node-prune
 
@@ -506,7 +436,6 @@
 
 > 🔗[`node-prune`源码链接](https://github.com/tj/node-prune)
 
----
 
 ### annie
 
@@ -516,7 +445,6 @@
 
 > 🔗[`annie`源码链接](https://github.com/iawia002/annie)
 
----
 
 ### vue-with-go-example
 
@@ -526,7 +454,6 @@
 
 > 🔗[`vue-with-go-example`源码链接](https://github.com/chinanf-boy/vue-with-go-example)
 
----
 
 ### v2ray
 
@@ -536,7 +463,34 @@
 
 > 🔗[`v2ray`源码链接](https://github.com/v2ray/v2ray-core)
 
----
+### sshw
+
+[ ssh 客户端包装器,用于自动登录. ](https://github.com/chinanf-boy/sshw-explain)
+
+- [![low](./low.svg)📖]
+
+> 🔗[`sshw`源码链接](https://github.com/sshw/sshw-core)
+
+### go-csv-tag
+
+[ 使用标签, 读取/导出 csv 文件. ](https://github.com/chinanf-boy/go-csv-tag-explain)
+
+- [![low](./low.svg)-[medium](./medium.svg)📖]
+
+> 🔗[`go-csv-tag`源码链接](https://github.com/artonge/go-csv-tag)
+
+
+
+## rust
+
+### add-one
+
+[ rust , 加一~~库~~箱. ](https://github.com/chinanf-boy/add-one-explain)
+
+- [![medium](./medium.svg)📖]
+
+> 🔗[`add-one`源码链接](https://github.com/o2sh/add-one)
+
 
 ## BitCoin
 
@@ -546,7 +500,6 @@
 
 [本链接的 关于 比特币原理-讲解的视频 收藏夹 「真的简单,明了❤️」](https://github.com/chinanf-boy/what-is-bitcoin)
 
----
 
 ## ipfs
 
@@ -564,7 +517,6 @@
 
 `~~~`
 
----
 
 
 - [x] 如果你喜欢，打个 star🌟 , or fork 👌
@@ -575,5 +527,4 @@
 
 > 而之前一定会有错误的❌的,不可能没有「`Error`」请带着-批判-阅读📖-, 但请不要指责, 因为我只是想要帮别人❤️, 当然还有自己😯
 
----
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
